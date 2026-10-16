@@ -1,5 +1,9 @@
+cat > .gitignore <<'EOF'
 __pycache__/
 .venv/
 venv/
 .env
 .DS_Store
+data.zip
+data/
+EOF

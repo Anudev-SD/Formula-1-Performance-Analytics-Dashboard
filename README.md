@@ -96,7 +96,6 @@ Output goes to `output/`: figure_1.png ... figure_8.png and F1_Report.pdf
 
 ##  Make it yours
 Open `f1_report.py` and edit the CONFIG block at the top:
-- UNIVERSITY, COURSE, STUDENT_ID: your own details for the cover page
 - SEASON: which year charts 1 and 3 use (default: latest in the data)
 - COMPARE / PIT_DRIVERS: which drivers to show
 - INSIGHTS: write your own analysis for each chart. It is printed under the chart in the PDF.
